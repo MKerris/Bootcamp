@@ -60,8 +60,8 @@ public class week3CodingAssignment {
 //		7.	Write a method that takes a String, word, and an int, n, as arguments and returns the word concatenated to itself n number of times. (i.e. if I pass in “Hello” and 3, I expect the method to return “HelloHelloHello”).
 			
 			String userWord = "Hello";
-			int wordNumber = 3;
-			System.out.println("7: " + makeGibberish(userWord, wordNumber));
+			int userNumber = 3;
+			System.out.println("7: " + makeGibberish(userWord, userNumber));
 			
 //		8.	Write a method that takes two Strings, firstName and lastName, and returns a full name (the full name should be the first and the last name as a String separated by a space).
 			
